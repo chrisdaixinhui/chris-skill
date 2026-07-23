@@ -1,0 +1,20 @@
+# Private source material — never commit
+# (raw chat logs, personal reflections, profile analysis used to build this skill)
+private/
+raw/
+*_private.md
+chris_profile_draft.md
+chris_skill_references/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
